@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 <h4>4- Boostrap/Foundation/Materizlize </h4>
 
 <h2> 📫 How to reach me: </h2>
-  uzair.bukhari4@gmail.com
+  <h4> <a href="mailto: uzair.bukhari4@gmail.com">uzair.bukhari4@gmail.com</a></h4>

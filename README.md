@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <h4>2- Landing Pages  </h4>
 <h4>3- Customize Theme Design </h4>
 <h4>4- UI/UX (Web & Mobile) </h4>
-<h4>3- Wireframing </h4>
-<h4>3- Prototyping </h4>
+<h4>5- Wireframing </h4>
+<h4>6- Prototyping </h4>
 
 <h2> ⚡ Technologies I work on: </h2> 
 <h4>1- Angular </h4>

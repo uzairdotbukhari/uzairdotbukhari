@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>I'm creative boutique specialized in Front-End Development and UI/UX.</h2>
+### I'm creative boutique specialized in Front-End Development and UI/UX.
+
 
 <h2> 🔭  What I do best: </h2>
 <h4>1- Front-End Development </h4>

@@ -3,7 +3,7 @@
 <p align="center">
   <samp>
     Hi, I'm Uzair! 👋 <br>
-    🔥 Software Developer grinding hard to make something cool  <br>
+    🔥 Software Engineer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: JavaScript, React, Angular, Typescript ... <br>
     :notebook: I’m currently learning Node.js 😭  <br>
     :email:	uzair.bukhari4@gmail.com <br>

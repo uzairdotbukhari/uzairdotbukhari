@@ -7,7 +7,6 @@
     :sparkles: Favorite Tech: JavaScript, React, Angular, Typescript ... <br>
     :notebook: I’m currently learning Node.js 😭  <br>
     :email:	uzair.bukhari4@gmail.com <br>
-    :art: Portfolio: https://www.uzair.work <br>
     :briefcase: LinkedIn: https://linkedin.com/in/uzairdotbukhari <br>
                 Twitter: https://twitter.com/uzairdotbukhari?lang=en
   </samp>
